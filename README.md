@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a frontend Developer,Java Developer and a Graphic Designer.
+I'm a frontend Developer,Java Developer.
 
 
 ## 🔗 My Links
