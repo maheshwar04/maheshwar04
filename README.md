@@ -12,5 +12,5 @@ I'm a frontend Developer, Java Developer.
 | ![Maheshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshwar04&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar04&layout=compact&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshwar04&theme=radical) |
 | --- | --- | --- |
 
-## 🏆 Hacktoberfest Holopin Badges
+## 🏆 Hacktoberfest Badges
 [![An image of @maheshwar04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshwar04)](https://holopin.io/@maheshwar04#badges)
