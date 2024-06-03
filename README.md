@@ -13,4 +13,5 @@ I'm a frontend Developer, Java Developer.
 | --- | --- | --- |
 
 ## 🏆 Hacktoberfest Badges
+![Profile Views](https://komarev.com/ghpvc/?username=maheshwar04)
 [![An image of @maheshwar04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshwar04)](https://holopin.io/@maheshwar04#badges)
