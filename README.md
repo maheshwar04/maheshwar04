@@ -1,5 +1,3 @@
-<div style="border: 3px solid #4CAF50; padding: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); background-color: #333; color: white;">
-
 # Hi, I'm Maheshwar! 👋
 
 ## 🚀 About Me
@@ -17,5 +15,3 @@ I'm a frontend Developer, Java Developer.
 ## 🏆 Hacktoberfest Badges
 ![Profile Views](https://komarev.com/ghpvc/?username=maheshwar04)
 [![An image of @maheshwar04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maheshwar04)](https://holopin.io/@maheshwar04#badges)
-
-</div>
