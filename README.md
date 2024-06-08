@@ -1,4 +1,4 @@
-<div style="border: 3px solid black; padding: 10px;">
+<div style="border: 3px solid #4CAF50; padding: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
 
 # Hi, I'm Maheshwar! 👋
 
