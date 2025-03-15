@@ -19,7 +19,7 @@ I'm a Full Stack Developer passionate about building scalable and user-friendly 
 
 ## 📊 GitHub Stats
 
-| ![Maheshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshwar04&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar04&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=maheshwar04&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maheshwar04&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maheshwar04&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=maheshwar04&theme=radical) |
 | --- | --- | --- |
 
 ## 🏆 Hacktoberfest & Badges
