@@ -1,27 +1,128 @@
-# Hi, I'm Maheshwar! 👋
+<div align="center">
 
-![Welcome](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;MuleSoft+Developer)
+# Hi, I'm Maheshwar 👋
 
-## 🚀 About Me
-I'm a Full Stack Developer passionate about building scalable and user-friendly applications. I specialize in Java, MuleSoft, Spring Boot, and cloud technologies like Microsoft Azure. I love solving problems, learning new technologies, and contributing to open-source projects.
+### Associate Software Engineer • Java Backend Developer
 
-## 🔗 Connect with Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maheshwar.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshwar04/)
+Building scalable backend systems with **Java**, **Spring Boot**, **MuleSoft**, and **Cloud Technologies**.
 
-## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <a href="https://maheshwar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maheshwar04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:maheshwarnag04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 📊 GitHub Stats
+![](https://komarev.com/ghpvc/?username=maheshwar04&style=flat-square)
 
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=maheshwar04&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maheshwar04&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=maheshwar04&theme=radical) |
-| --- | --- | --- |
+</div>
 
-## 🏆 Hacktoberfest & Badges
-![Profile Views](https://komarev.com/ghpvc/?username=maheshwar04)
-[![Holopin Badges](https://holopin.me/maheshwar04)](https://holopin.io/@maheshwar04#badges)
+---
+
+## 👨‍💻 About Me
+
+```java
+class Maheshwar {
+
+    String role = "Associate Software Engineer";
+
+    String[] languages = {
+        "Java",
+        "JavaScript",
+        "SQL"
+    };
+
+    String[] backend = {
+        "Spring Boot",
+        "Spring Security",
+        "REST APIs",
+        "MuleSoft"
+    };
+
+    String[] cloud = {
+        "Azure",
+        "Docker"
+    };
+
+    String[] databases = {
+        "MySQL",
+        "Oracle"
+    };
+
+    String currentFocus =
+        "Backend Development • System Design • DSA";
+}
+```
+
+---
+
+## ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,azure,docker,mysql,git,github,linux,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍽 Bite & Brew
+
+> Restaurant Management Platform built using Spring Boot, React and Microservices.
+
+### 🎬 Imangi
+
+> Movie Ticket Booking Platform with Spring Boot, React, Azure SQL and JWT Authentication.
+
+### 🔍 RepoScan CLI
+
+> Static Code Analysis CLI for detecting code quality and security issues.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshwar04&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar04&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maheshwar04&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+<a href="https://holopin.io/@maheshwar04">
+<img src="https://holopin.me/maheshwar04"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something amazing together 🚀
+
+</div>
