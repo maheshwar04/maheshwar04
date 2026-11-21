@@ -1,6 +1,6 @@
 # Hi, I'm Maheshwar! 👋
 
-![Welcome](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;MuleSoft+Developer;Cloud)
+![Welcome](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;MuleSoft+Developer)
 
 ## 🚀 About Me
 I'm a Full Stack Developer passionate about building scalable and user-friendly applications. I specialize in Java, MuleSoft, Spring Boot, and cloud technologies like Microsoft Azure. I love solving problems, learning new technologies, and contributing to open-source projects.
