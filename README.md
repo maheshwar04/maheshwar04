@@ -1,12 +1,12 @@
 # Hi, I'm Maheshwar! 👋
 
-![Welcome](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&lines=Full+Stack+Developer;Java+Spring+Boot+Enthusiast;Cloud+Learner)
+![Welcome](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F70000&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;MuleSoft+Developer;Cloud)
 
 ## 🚀 About Me
-I'm a Full Stack Developer passionate about building scalable and user-friendly applications. I specialize in Java, Spring Boot, and cloud technologies like Microsoft Azure. I love solving problems, learning new technologies, and contributing to open-source projects.
+I'm a Full Stack Developer passionate about building scalable and user-friendly applications. I specialize in Java, MuleSoft, Spring Boot, and cloud technologies like Microsoft Azure. I love solving problems, learning new technologies, and contributing to open-source projects.
 
 ## 🔗 Connect with Me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maheshwar.tech)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maheshwar.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maheshwar04/)
 
 ## 🛠 Tech Stack
